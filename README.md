@@ -1,6 +1,8 @@
 # 🏠 Github-Clone
 
-This repository includes a user-friendly interface built with HTML, CSS, and JavaScript, which allows users to search for GitHub profiles and view the top 3 most popular repositories of each user.
+This repository includes a user-friendly interface built with HTML, CSS, and JavaScript, which allows users to search for GitHub profiles and view the top 3 most popular repositories of each user.The data retrieved through API requests has been successfully integrated into the user interface.
+
+
 
 # 🚀Features
 
@@ -9,6 +11,8 @@ This repository includes a user-friendly interface built with HTML, CSS, and Jav
 -User-Friendly Interface
 
 -Modular Coding
+
+-API Integration
 
 # 🛠️Technologies Used
 
